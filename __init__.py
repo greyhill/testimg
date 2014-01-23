@@ -20,4 +20,4 @@ def sailboats(): return getimg('4.2.06')
 def peppers(): return getimg('4.2.07')
 def boat(): return getimg('boat.512')
 def man(): return getimg('5.3.01')
-
+def cameraman(): return getimg('cameraman')
