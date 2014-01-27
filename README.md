@@ -20,6 +20,8 @@ The following are available as `testimg.[name]()`:
 - `boat`
 - `man`
 - `cameraman`
+- `al`
+- `tools`
 
 Some of these are color, some of them are grayscale.  You can ensure a
 grayscale image by calling `testimg.[name](True)`.

@@ -33,4 +33,6 @@ def peppers(force_gray = False): return getimg('4.2.07', force_gray)
 def boat(force_gray = False): return getimg('boat.512', force_gray)
 def man(force_gray = False): return getimg('5.3.01', force_gray)
 def cameraman(force_gray = False): return getimg('cameraman', force_gray)
+def al(force_gray = False): return getimg('al', force_gray)
+def tools(force_gray = False): return getimg('tools', force_gray)
 
